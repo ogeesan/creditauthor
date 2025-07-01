@@ -1,5 +1,8 @@
-![](example.png)
 # `creditauthor` : make CRediT heatmaps
+<p align="center">
+  <img src="example.png" width="500" />
+</p>
+
 Inspired by various scientists using [heatmaps to give fair credit](https://www.nature.com/nature-index/news/researchers-embracing-visual-tools-contribution-matrix-give-fair-credit-authors-scientific-papers) using [CRediT](https://credit.niso.org/) here is `creditauthor`, a small tool to make a heatmap image for author contributions.
 
 Usage
